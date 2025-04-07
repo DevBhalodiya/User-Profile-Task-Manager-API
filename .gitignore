@@ -1,0 +1,6 @@
+**/.env
+**/node_modules/
+D24IT155_Practical-7.docx
+*.log
+.DS_Store
+.vscode/
