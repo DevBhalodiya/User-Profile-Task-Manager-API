@@ -10,8 +10,8 @@ connectDB();
 const insertUser = async () => {
   try {
     const user = new User({
-      name: "ABC",
-      email: "abc@mail.com",
+      name: "DevBhalodiya",
+      email: "dev@mail.com",
       age: 20,
     });
     const result = await user.save();
